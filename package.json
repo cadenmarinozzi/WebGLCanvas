@@ -1,0 +1,11 @@
+{
+  "name": "@nekumelon/glslcanvas",
+  "version": "1.0.0",
+  "description": "Easily implemented WebGL canvas for quick testing",
+  "main": "./dist/WebGLCanvas.min.js",
+  "directories": {
+    "example": "examples"
+  },
+  "author": "nekumelon",
+  "license": "MIT"
+}
